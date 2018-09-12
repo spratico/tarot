@@ -1,2 +1,2 @@
-# taro
+# tarot
 Sam Pratico
