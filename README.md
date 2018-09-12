@@ -1,1 +1,2 @@
 # tarot
+# sam pratico
